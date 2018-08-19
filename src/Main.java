@@ -18,5 +18,7 @@ public class Main {
         threadPool.schedule(new WatekRunnable3(), 1, TimeUnit.SECONDS);
 
         threadPool.shutdown();
+
+        ///bla bla bla
     }
 }
